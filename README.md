@@ -1,5 +1,4 @@
 # genomic_lineage
-EDA peruvian genomic lineage
 
 EDA of peruvian genomic lineage data.
 
